@@ -4,7 +4,7 @@
 class CTTabStripModel;
 @class CTBrowser;
 
-extern const NSString* CTTabContentsDidCloseNotification;
+#define CTTabContentsDidCloseNotification @"CTTabContentsDidCloseNotification"
 
 //
 // Visibility states:

@@ -3,8 +3,8 @@
 #import "CTBrowser.h"
 #import "KVOChangeScope.hh"
 
-const NSString* CTTabContentsDidCloseNotification =
-    @"CTTabContentsDidCloseNotification";
+//static NSString* CTTabContentsDidCloseNotification =
+//    @"CTTabContentsDidCloseNotification";
 
 @implementation CTTabContents
 
